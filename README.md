@@ -1,5 +1,5 @@
 # This is a fork of electron-quick-start.
- test credential caching
+ test credential caching, now it should not ask credential again.
 
 # electron-quick-start
 
