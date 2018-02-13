@@ -1,4 +1,4 @@
-#This is a fork of electron-quick-start.
+# This is a fork of electron-quick-start.
 
 # electron-quick-start
 
