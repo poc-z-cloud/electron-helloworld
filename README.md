@@ -1,4 +1,5 @@
 # This is a fork of electron-quick-start.
+ test credential caching
 
 # electron-quick-start
 
